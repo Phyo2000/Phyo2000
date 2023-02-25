@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phyo2000
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning nothing 😑
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on IOT
 - 📫 How to reach me "phyoaungzaymm@gmail.com"
 
